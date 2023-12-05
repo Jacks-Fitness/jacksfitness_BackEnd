@@ -13,5 +13,6 @@ public class JaxfitnessApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(JaxfitnessApplication.class, args);
 	}
-
+	// 첫 커밋 branch developGw
+	// 최종 테스트 onings
 }
